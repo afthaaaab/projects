@@ -1,7 +1,7 @@
 # Deauther tool 
 ## Introduction
 
-Deauther is a command-line utility designed for educational purposes, allowing you to perform various actions related to Wi-Fi networks. This tool is intended for legitimate penetration testing, security research purposes, and network devices that you own or have permission to test.
+Deauther is a command-line utility designed from the aircrack-ng tool, allowing you to perform various actions related to Wi-Fi networks. This tool is intended for legitimate penetration testing and security research purposes
 
 ## Pre-requisites
 
